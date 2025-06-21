@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springReactApp2.SpringReactApp2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.468 s -- in com.springReactApp2.SpringReactApp2ApplicationTests

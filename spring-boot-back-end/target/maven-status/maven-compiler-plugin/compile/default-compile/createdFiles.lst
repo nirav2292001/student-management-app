@@ -1,0 +1,13 @@
+com/example/studentmanagement/config/WebConfig$1.class
+com/springReactApp2/exception/StudentAlreadyExistsException.class
+com/springReactApp2/exception/CustomExceptionHandler.class
+com/springReactApp2/exception/StudentNotFoundException.class
+com/example/studentmanagement/config/WebConfig.class
+com/springReactApp2/SpringReactApp2Application.class
+com/springReactApp2/controller/StudentController.class
+com/springReactApp2/model/Student.class
+CorsConfig.class
+CorsConfig$1.class
+com/springReactApp2/service/StudentService.class
+com/springReactApp2/repository/StudentRepository.class
+com/springReactApp2/service/IStudentService.class

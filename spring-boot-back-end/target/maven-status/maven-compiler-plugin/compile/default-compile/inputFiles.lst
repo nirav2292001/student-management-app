@@ -1,0 +1,11 @@
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/example/studentmanagement/config/WebConfig.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/config/CorsConfig.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/repository/StudentRepository.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/service/IStudentService.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/exception/CustomExceptionHandler.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/controller/StudentController.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/exception/StudentNotFoundException.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/SpringReactApp2Application.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/exception/StudentAlreadyExistsException.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/service/StudentService.java
+/home/ubuntu/student-management-app/spring-boot-back-end/src/main/java/com/springReactApp2/model/Student.java
